@@ -29,7 +29,3 @@
 * お店の特定のおつまみ登録
 * お酒以外(コーヒーやお茶など)他嗜好品への展開
 
-### Figma  Link
-https://www.figma.com/file/ASrel0VstE7pdSJhUJaxhM/Tasty-Paring_%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=19-883&mode=design&t=rTrtdoZ2khFXmzyh-0
-
-
